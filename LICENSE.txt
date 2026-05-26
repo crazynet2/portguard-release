@@ -1,0 +1,11 @@
+Proprietary - CrazyNet / PortGuard
+Copyright (c) 2024-2026 CrazyNet. All rights reserved.
+
+Commercial license required for production use.
+Trial use permitted only for evaluation purposes, time-limited.
+
+Full EULA: https://portguard.crazynet.io/legal/eula
+
+Unauthorized copying, modification, distribution, or use of this
+software, except as authorized by the license terms, is strictly
+prohibited.
